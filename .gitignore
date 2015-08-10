@@ -13,6 +13,7 @@
 *.userprefs
 *.pidb
 *.booproj
+Assets/STORES/*
 
 # Unity3D generated meta files
 *.pidb.meta
